@@ -8,7 +8,7 @@ We were supplied with the original code and asked to make changes to it in the i
 
 >### Overview of Changes
 
-- changed several of the html wraps to semantic html ease of use
+- changed several of the html wraps to semantic html for ease of use
 
 - re ordered the CSS to have global attributes at the top, then work down the page in coordination with their corresponding elements
 
