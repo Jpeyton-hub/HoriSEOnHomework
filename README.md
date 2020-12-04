@@ -20,7 +20,7 @@ We were supplied with the original code and asked to make changes to it in the i
 
 ---
 
-![preview of the Horiseon site](Horiseonpreview.jpeg)
+![preview of the Horiseon site](assets/images/Horiseonpreview.jpeg)
 
 ---
 
